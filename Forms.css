@@ -1,0 +1,18 @@
+h1{
+  color:darkred;
+  text-align:center;
+  font-style:bold;
+}
+body{
+  background-color:antiquewhite;
+}
+form{
+  text-align:left;
+  color:#005a9c;
+  background-color:antiquewhite;
+  padding:20px;
+  font-style:bold;
+}
+.Container{
+  text-align:center;
+}
